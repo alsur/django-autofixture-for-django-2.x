@@ -47,7 +47,7 @@ setup(
     license = 'BSD',
     description = 'Provides tools to auto generate test data.',
     long_description = long_description,
-    author = UltraMagicString('Gregor Müllegger'),
+    author = 'Gregor Müllegger',
     author_email = 'gregor@muellegger.de',
     classifiers = [
         'Development Status :: 4 - Beta',
